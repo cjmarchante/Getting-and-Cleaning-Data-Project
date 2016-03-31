@@ -23,6 +23,8 @@ Repo Content
 
 `run_analysis.R`: The script to be run that perform all the steps to get the final data set.
 
+`averagedataset.txt`: the resulting dataset
+
 
 Requested tasks
 -------
